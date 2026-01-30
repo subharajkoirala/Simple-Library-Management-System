@@ -6,12 +6,12 @@ This is the main file to run the Library Management System with GUI.
 It imports and uses all the GUI modules.
 """
 
-from login_gui import login
-from menu_gui import main_menu
-from add_books_gui import add_books
-from list_books_gui import list_books
-from loan_book_gui import lending_book
-from patron_clearing_gui import patron_clearing
+from login_ import login
+from menu_ import main_menu
+from add_books_ import add_books
+from list_books_ import list_books
+from loan_book_ import lending_book
+from patron_clearing_ import patron_clearing
 
 
 def main():
