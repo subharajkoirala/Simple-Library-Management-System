@@ -231,7 +231,6 @@ Library_Management_System/
 │
 ├── README.md                    # This file
 ├── SETUP_GUIDE.md              # Detailed setup instructions
-└── GUI_Development_Guide.md    # GUI development tutorial
 ```
 
 ## 🔧 Technical Details
@@ -309,7 +308,7 @@ Having issues? Need help?
 
 - 📧 Email: subharajkoirala@gmail.com
 - 🐛 Report bugs in the [Issues](https://github.com/yourusername/library-management-system/issues) section
-- 💬 Questions? Check the `SETUP_GUIDE.md` and `GUI_Development_Guide.md`
+- 💬 Questions? Check the `SETUP_GUIDE.md` 
 
 
 *Last Updated: January 2026*
