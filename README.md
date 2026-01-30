@@ -290,24 +290,15 @@ sudo apt-get install python3-tk
 
 
 
-
-
 ## 👨‍💻 Authors
 
 - **Subharaj Koirala** - *Initial work and GUI development*
-
-## 🙏 Acknowledgments
-
-- Built with Python and Tkinter
-- Pandas library for CSV operations
-- Inspired by the need for simple, efficient library management
 
 ## 📞 Support
 
 Having issues? Need help?
 
 - 📧 Email: subharajkoirala@gmail.com
-- 🐛 Report bugs in the [Issues](https://github.com/yourusername/library-management-system/issues) section
 - 💬 Questions? Check the `SETUP_GUIDE.md` 
 
 
