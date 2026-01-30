@@ -87,13 +87,13 @@ A modern, GUI-based Library Management System built with Python and Tkinter. Man
 3. **Ensure you have the required files**
    ```
    Library_Management/
-   ├── Main_LMS_GUI.py
-   ├── login_gui.py
-   ├── menu_gui.py
-   ├── add_books_gui.py
-   ├── list_books_gui.py
-   ├── loan_book_gui.py
-   ├── patron_clearing_gui.py
+   ├── Main_LMS_.py
+   ├── login_.py
+   ├── menu_.py
+   ├── add_books_.py
+   ├── list_books_.py
+   ├── loan_book_.py
+   ├── patron_clearing_.py
    └── Book_list.csv
    ```
 
@@ -208,24 +208,24 @@ fine = delay * 20  # Change 20 to your fine amount per day
 ```
 Library_Management_System/
 │
-├── Main_LMS_GUI.py              # Main entry point
+├── Main_LMS_.py              # Main entry point
 │
-├── login_gui.py                 # Login module
+├── login_.py                 # Login module
 │   └── LoginWindow class
 │
-├── menu_gui.py                  # Main menu module
+├── menu_.py                  # Main menu module
 │   └── MenuWindow class
 │
-├── add_books_gui.py             # Add books module
+├── add_books_.py             # Add books module
 │   └── AddBooksWindow class
 │
-├── list_books_gui.py            # List books module
+├── list_books_.py            # List books module
 │   └── ListBooksWindow class
 │
-├── loan_book_gui.py             # Loan books module
+├── loan_book_.py             # Loan books module
 │   └── LoanBookWindow class
 │
-├── patron_clearing_gui.py       # Return books module
+├── patron_clearing_.py       # Return books module
 │   └── PatronClearingWindow class
 │
 ├── Book_list.csv                # Database file
